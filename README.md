@@ -1,6 +1,5 @@
 # Credit Card Validator
 
-[![CI/CD](https://github.com/LostFeniks/testing/actions/workflows/ci.yml/badge.svg)](https://github.com/LostFeniks/testing/actions/workflows/ci.yml)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://LostFeniks.github.io/testing/)
 
 ## 🎯 Описание
